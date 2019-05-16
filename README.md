@@ -51,7 +51,9 @@ While the ticks on the axes allow us to infer approximate values for each circle
 - - -
 
 ### How To run
-
+* Download repo
+* cd into file
+* Using Python environment on the cmd line run python -m http.server
 
 ## Copyright
 
