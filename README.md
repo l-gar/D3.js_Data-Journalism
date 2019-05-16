@@ -1,4 +1,4 @@
-# Unit 16 | Assignment - Data Journalism and D3
+# Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
@@ -50,19 +50,8 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 - - -
 
-### Assessment
+### How To run
 
-Your final product will be assessed on the following metrics:
-
-* Completion of all steps in chosen level
-
-* Coherency of scatter plot (labels, ticks)
-
-* Visual attraction
-
-* Professionalism
-
-**Good luck!**
 
 ## Copyright
 
